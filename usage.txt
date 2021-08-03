@@ -1,0 +1,7 @@
+[USAGE] - node new.js [host] [time] [request/proxy] [proxy.txt]
+
+Modes - [request/proxy], request is for auto-bypass which bypasses cloudflare, blazingfast, sucuri, stormwall and some ddos-guard along with many more firewalls and the mode proxy is a regular GET flood, generating high r/s.
+
+Ratelimit - [false/true], if the target has ratelimit turned on then make sure to use the file newy.js and if they don't then use new.js
+
+Info - You will have to change the proxies every couple days along with the ua.txt
